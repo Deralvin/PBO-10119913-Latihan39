@@ -8,9 +8,10 @@ package pbo10119913latihan39;
 import java.util.Scanner;
 
 /**
- *
- * @author Lenovo
- */
+ * @author
+ * NAMA     : Muhammad Alvin Rizqi Ramdhan 
+ * KELAS    : IF 10K
+ * NIM      : 10119913*/
 public class PBO10119913Latihan39 {
 
     /**
